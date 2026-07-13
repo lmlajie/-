@@ -8,7 +8,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><sub><strong>图 2｜</strong>藏文听写软件</sub></td>
+    <td align="center"><sub><strong> </strong>藏文听写软件</sub></td>
 
   </tr>
 </table>
