@@ -3,7 +3,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="./jiemian.png">
-        <img src="./jiemian.png" alt="测试版藏文听写软件" width="400">
+        <img src="./jiemian.png" alt="测试版藏文听写软件" width="800">
       </a>
     </td>
   </tr>
