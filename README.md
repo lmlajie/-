@@ -1,5 +1,17 @@
-藏墨 Windows 桌面版
+# 藏墨【藏文听写软件】 Windows 桌面版
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="./jiemian.png">
+        <img src="./jiemian.png" alt="测试版藏文听写软件" width="400">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><sub><strong>图 2｜</strong>藏文听写软件</sub></td>
 
+  </tr>
+</table>
 运行方法：
 1. 打开“藏墨-Windows-x64”文件夹。
 2. 双击“藏墨.exe”。
@@ -14,4 +26,4 @@
 
 提示：
 当前版本没有数字签名，Windows 首次打开时可能显示安全提醒。请选择“更多信息”后再选择“仍要运行”。
-![Uploading ac29346ca9e8c99eed141704e3b25d0b.png…]()
+
